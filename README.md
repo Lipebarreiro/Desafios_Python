@@ -1,3 +1,3 @@
 # Desafios_Python
 
-Repositório destinado a desafios realizados propostos pela Kikc
+Repositório destinado a desafios de python realizados, propostos pela Kick
